@@ -9,13 +9,13 @@
     window.appInsights.trackPageView();
   }
 
-  /*
+  
   // Load SDK and call init only when ready
   var script = document.createElement("script");
   script.src = "https://js.monitor.azure.com/scripts/b/ai.3.gbl.min.js";
   script.onload = initAppInsights;
   script.crossOrigin = "anonymous";
   document.head.appendChild(script); 
-  */
+  
   
 })(); 
